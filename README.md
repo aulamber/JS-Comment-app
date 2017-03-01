@@ -1,2 +1,2 @@
 # Comment app in reactJS
-implementation of a simple comment app. Uses localStorage.
+Implementation of a simple comment app. Uses localStorage.
